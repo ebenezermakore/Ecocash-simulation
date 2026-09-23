@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm / JetBrains IDE settings
+.idea/
+
+# App-generated data (contains balances/PINs, not source code)
+mobile_money_data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
